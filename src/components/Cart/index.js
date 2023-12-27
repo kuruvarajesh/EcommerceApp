@@ -22,7 +22,6 @@ const Cart = () => (
               <div className="cart-content-container">
                 <h1 className="cart-heading">My Cart</h1>
                 <CartListView />
-                {/* TODO: Add your code for Cart Summary here */}
               </div>
             )}
           </div>
