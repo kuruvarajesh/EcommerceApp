@@ -1,6 +1,6 @@
-import React, {useState} from 'react'
+import {useState} from 'react'
 import Cookies from 'js-cookie'
-import {useHistory, Redirect} from 'react-router-dom'
+import {useHistory} from 'react-router-dom'
 import './index.css'
 
 const LoginForm = () => {
